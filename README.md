@@ -1,5 +1,7 @@
 # Quick Svelte Assessment
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mateothegreat/svelte-assessment-modal-form)
+
 Create a quick demo that implements a modal and a global store to manage a list of usernames.
 
 ## Requirements
